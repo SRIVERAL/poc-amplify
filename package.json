@@ -1,0 +1,19 @@
+{
+  "name": "poc-amplify",
+  "version": "1.0.0",
+  "description": "PoC to deploy nodejs with Amplify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SRIVERAL/poc-amplify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SRIVERAL/poc-amplify/issues"
+  },
+  "homepage": "https://github.com/SRIVERAL/poc-amplify#readme"
+}
